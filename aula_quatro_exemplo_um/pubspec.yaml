@@ -1,4 +1,4 @@
-name: go_router_2
+name: aula_quatro_exemplo_um
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0+1
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  go_router: ^17.2.3
+  http: ^1.6.0
 
 dev_dependencies:
   flutter_test:
