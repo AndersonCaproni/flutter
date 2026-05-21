@@ -11,6 +11,7 @@ import 'dart:convert';
 void main() async {
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: const Home(),
       theme: ThemeData(hintColor: Colors.green, primaryColor: Colors.white),
     ),
